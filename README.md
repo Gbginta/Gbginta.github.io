@@ -1,2 +1,2 @@
-# gintare.github.io
+# gg.ginta.github.io
 test
