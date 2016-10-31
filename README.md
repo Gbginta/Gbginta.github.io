@@ -1,2 +1,2 @@
-# gg.ginta.github.io
+# Gbginta.github.io
 test
